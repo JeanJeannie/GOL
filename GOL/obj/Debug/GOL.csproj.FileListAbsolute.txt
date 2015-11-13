@@ -1,0 +1,6 @@
+C:\Dev\DEV\GOL\GOL\obj\Debug\GOL.csprojResolveAssemblyReference.cache
+C:\Dev\DEV\GOL\GOL\bin\Debug\GOL.exe.config
+C:\Dev\DEV\GOL\GOL\bin\Debug\GOL.exe
+C:\Dev\DEV\GOL\GOL\bin\Debug\GOL.pdb
+C:\Dev\DEV\GOL\GOL\obj\Debug\GOL.exe
+C:\Dev\DEV\GOL\GOL\obj\Debug\GOL.pdb
